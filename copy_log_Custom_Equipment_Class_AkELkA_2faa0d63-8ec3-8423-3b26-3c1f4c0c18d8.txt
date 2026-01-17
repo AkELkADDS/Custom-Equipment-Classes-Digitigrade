@@ -1,0 +1,279 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+   Sat 01/17/2026 12:55:00.89 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+ 
+Files found: 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8: 0 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\EquipmentSettings.lnk 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\EquipmentSettings\EquipmentRaces.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8: 6 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\7962c7d6-9c6c-0f90-f368-6841686c04a4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\7ad5aa24-5e51-533d-e85d-b068b0cc8d78.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\88f166f7-a0a4-c706-744b-8aa25dc04154.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\b33a4ced-473d-6a80-9139-cefee35ba4a6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\d9b2171f-f3d3-16c9-aac0-e8077676e732.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\f6635613-c86c-7914-b90b-7ea38906980a.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8: 6 
+ 
+[LOG] Total files found across all folders: 14 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 to Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[DEBUG] Using destination: Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, January 17, 2026 12:55:13 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
+     Dest : C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\meta.lsx100%  
+	    New File  		  400775	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   392.0 k   392.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Saturday, January 17, 2026 12:55:13 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Editor\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 to "Editor\Mods"\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[DEBUG] Using destination: Editor\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, January 17, 2026 12:55:15 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
+     Dest : C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Editor\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Saturday, January 17, 2026 12:55:15 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 0 
+[DEBUG] Successfully copied files: 0 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8: 
+      Total files: 0 
+      Copied successfully: 0 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 to Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[DEBUG] Using destination: Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, January 17, 2026 12:55:17 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
+     Dest : C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    2314	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\EquipmentSettings.lnk100%  
+	    New File  		    4894	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\meta.lsx100%  
+	    New File  		  400775	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\mod_publish_logo.png100%  
+	    New File  		   13746	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\EquipmentSettings\EquipmentRaces.lsx100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\GUI\metadata.lsf100%  
+	    New File  		     137	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         6         6         0         0         0         0
+   Bytes :   413.0 k   413.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           211503500 Bytes/sec.
+   Speed :           12102.327 MegaBytes/min.
+   Ended : Saturday, January 17, 2026 12:55:17 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 6 
+[DEBUG] Successfully copied files: 6 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8: 
+      Total files: 6 
+      Copied successfully: 6 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 to Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[DEBUG] Using destination: Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, January 17, 2026 12:55:18 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
+     Dest : C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    3208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\7962c7d6-9c6c-0f90-f368-6841686c04a4.lsf100%  
+	    New File  		    9900	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\7ad5aa24-5e51-533d-e85d-b068b0cc8d78.lsf100%  
+	    New File  		    3208	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\88f166f7-a0a4-c706-744b-8aa25dc04154.lsf100%  
+	    New File  		    2598	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\b33a4ced-473d-6a80-9139-cefee35ba4a6.lsf100%  
+	    New File  		    3517	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\d9b2171f-f3d3-16c9-aac0-e8077676e732.lsf100%  
+	    New File  		    4139	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Content\[PAK]_Custom_Equipment_Class_AkELkA\f6635613-c86c-7914-b90b-7ea38906980a.lsf100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         6         6         0         0         0         0
+   Bytes :    25.9 k    25.9 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             8856666 Bytes/sec.
+   Speed :             506.782 MegaBytes/min.
+   Ended : Saturday, January 17, 2026 12:55:18 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 6 
+[DEBUG] Successfully copied files: 6 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8: 
+      Total files: 6 
+      Copied successfully: 6 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 0 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 6 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 6 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 14 
+[SUMMARY] Total files successfully copied: 28 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

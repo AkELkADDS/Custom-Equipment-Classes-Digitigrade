@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="1" time="0" />
+    <version major="1" minor="0" revision="0" build="0" />
+    <region id="EquipmentRaces">
+        <node id="root">
+          <children>
+						<node id="EquipmentRace">
+							<attribute id="Name" value="Human Male" type="22" />
+              <attribute id="Guid" value="7d73f501-f65e-46af-a13b-2cacf3985d05" type="31" />
+              <attribute id="CharacterVisual" value="c0807a07-7e67-6f66-31d8-437c234a42e9" type="31" />
+            </node>
+						<node id="EquipmentRace">
+							<attribute id="Name" value="Human Female" type="22" />
+              <attribute id="Guid" value="71180b76-5752-4a97-b71f-911a69197f58" type="31" />
+              <attribute id="CharacterVisual" value="08bd8ca8-bc6f-316c-14a0-618159fffe9d" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Human Strong Male" type="22" />
+              <attribute id="Guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" type="31" />
+              <attribute id="CharacterVisual" value="088b539c-afc8-60f4-686c-400ea9c73d3c" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Human Strong Female" type="22" />
+              <attribute id="Guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="d1dc6034-39ff-71bb-ebf6-383e35007dae" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Elf/Drow Male" type="22" />
+              <attribute id="Guid" value="7dd0aa66-5177-4f65-b7d7-187c02531b0b" type="31" />
+              <attribute id="DefaultParent" value="7d73f501-f65e-46af-a13b-2cacf3985d05" type="31" />
+              <attribute id="CharacterVisual" value="2d897afa-e1cd-24aa-09f2-da975bc60cf6" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Elf/Drow Female" type="22" />
+              <attribute id="Guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" type="31" />
+              <attribute id="DefaultParent" value="71180b76-5752-4a97-b71f-911a69197f58" type="31" />
+              <attribute id="CharacterVisual" value="7972cd94-7671-a9dd-2fc6-309ef1871ef7" type="31" />
+			      </node>
+			      <node id="EquipmentRace">
+				      <attribute id="Name" value="Half-Elf Male" type="22" />
+              <attribute id="Guid" value="a0737289-ca84-4fde-bd52-25bae4fe8dea" type="31" />
+              <attribute id="DefaultParent" value="7d73f501-f65e-46af-a13b-2cacf3985d05" type="31" />
+              <attribute id="CharacterVisual" value="53f3ba97-46a7-a960-7f5b-76e24c6e168b" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Half-Elf Female" type="22" />
+              <attribute id="Guid" value="541473b3-0bf3-4e68-b1ab-d85894d96d3e" type="31" />
+              <attribute id="DefaultParent" value="71180b76-5752-4a97-b71f-911a69197f58" type="31" />
+              <attribute id="CharacterVisual" value="7e940ede-ae1d-41da-a923-a9563d300a81" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Tiefling Male" type="22" />
+              <attribute id="Guid" value="6503c830-9200-409a-bd26-895738587a4a" type="31" />
+              <attribute id="DefaultParent" value="7d73f501-f65e-46af-a13b-2cacf3985d05" type="31" />
+              <attribute id="CharacterVisual" value="576a9e8f-88f2-fbdc-5103-4591553e6bef" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Tiefling Female" type="22" />
+              <attribute id="Guid" value="cf421f4e-107b-4ae6-86aa-090419c624a5" type="31" />
+              <attribute id="DefaultParent" value="71180b76-5752-4a97-b71f-911a69197f58" type="31" />
+              <attribute id="CharacterVisual" value="de0c6ca1-0931-82d2-830c-d6ef06775b15" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Githyanki Male" type="22" />
+              <attribute id="Guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" type="31" />
+              <attribute id="DefaultParent" value="7d73f501-f65e-46af-a13b-2cacf3985d05" type="31" />
+              <attribute id="CharacterVisual" value="f0656351-448d-1421-fde6-ba2e9ade0a7f" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Githyanki Female" type="22" />
+              <attribute id="Guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" type="31" />
+              <attribute id="DefaultParent" value="71180b76-5752-4a97-b71f-911a69197f58" type="31" />
+              <attribute id="CharacterVisual" value="ca349532-fe0f-846e-4baf-0f9670f8b463" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Dwarf Male" type="22" />
+              <attribute id="Guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" type="31" />
+              <attribute id="CharacterVisual" value="5763e87c-bfda-551e-b69a-dfa7e7edfc04" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Dwarf Female" type="22" />
+              <attribute id="Guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" type="31" />
+              <attribute id="CharacterVisual" value="a1af4362-62ef-96ea-8952-98b166f47eb8" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Halfling Male" type="22" />
+              <attribute id="Guid" value="a933e2a8-aee1-4ecb-80d2-8f47b706f024" type="31" />
+              <attribute id="CharacterVisual" value="0fa37274-d703-f2bd-fbe1-556d9c4a54d7" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Halfling Female" type="22" />
+              <attribute id="Guid" value="8f00cf38-4588-433a-8175-8acdbbf33f33" type="31" />
+              <attribute id="CharacterVisual" value="51938423-2d7c-c937-ef98-1f8953296da9" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Gnome Male" type="22" />
+              <attribute id="Guid" value="5640e766-aa53-428d-815b-6a0b4ef95aca" type="31" />
+              <attribute id="CharacterVisual" value="b0971761-af1a-e52c-ffb2-2c0689f8ed96" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Gnome Female" type="22" />
+              <attribute id="Guid" value="c491d027-4332-4fda-948f-4a3df6772baa" type="31" />
+              <attribute id="CharacterVisual" value="1c4a3645-17c8-90a3-115b-3af00eead9d6" type="31" />
+			</node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Dragonborn Male" type="22" />
+              <attribute id="Guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" type="31" />
+              <attribute id="DefaultParent" value="e39505f7-f576-4e70-a99e-8e29cd381a11" type="31" />
+              <attribute id="CharacterVisual" value="9a9e238d-31a1-47bb-b0dd-11f2cb8e0047" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Dragonborn Female" type="22" />
+              <attribute id="Guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="5c858d36-d0d7-55c8-82db-86aa364bd044" type="31" />
+			</node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Half-Orc Female" type="22" />
+              <attribute id="Guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="04e25d36-f682-4785-6965-1a916d300950" type="31" />
+			</node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Half-Orc Male" type="22" />
+              <attribute id="Guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" type="31" />
+              <attribute id="DefaultParent" value="e39505f7-f576-4e70-a99e-8e29cd381a11" type="31" />
+              <attribute id="CharacterVisual" value="9ec94019-3f5c-3717-dc7d-92612431de15" type="31" />
+			</node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Tiefling Female Strong" type="22" />
+              <attribute id="Guid" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" type="31" />
+              <attribute id="DefaultParent" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" type="31" />
+              <attribute id="CharacterVisual" value="a42d11fd-0b55-65d1-1c20-0bb104d56ae9" type="31" />
+			</node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Tiefling Karlach" type="22" />
+              <attribute id="Guid" value="6326d417-315c-4605-964e-d0fad73d719b" type="31" />
+              <attribute id="DefaultParent" value="a5789cd3-ecd6-411b-a53a-368b659bc04a" type="31" />
+              <attribute id="CharacterVisual" value="a42d11fd-0b55-65d1-1c20-0bb104d56ae9" type="31" />
+			</node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Tiefling Male Strong" type="22" />
+              <attribute id="Guid" value="f625476d-29ec-4a6d-9086-42209af0cf6f" type="31" />
+              <attribute id="DefaultParent" value="e39505f7-f576-4e70-a99e-8e29cd381a11" type="31" />
+              <attribute id="CharacterVisual" value="a56199e9-75b9-032c-8bf2-306eea47090b" type="31" />
+			</node>
+			<!-- MODDED BODYTYPES FOR EXISTING RACES -->
+			<!-- DIGITIGRADE LEGS-->
+			<!-- Reptile, Birds -->
+            <node id="EquipmentRace"><!-- DRAGONBORN 3 type (Bulkier Clawstep Female)-->
+              <attribute id="Name" value="CEC DF Dragonborn Female Strong EL" type="22" />
+              <attribute id="Guid" value="f98a5013-c4e7-470f-9930-0b0f5a067b6d" type="31" />
+              <attribute id="DefaultParent" value="6d38f246-15cb-48b5-9b85-378016a7a78e" type="31" /><!-- DRAGONBORN Female (Meaning it will revert to Clawstep) - parent it reverts to if doesn't have equipment -->
+              <attribute id="CharacterVisual" value="d9b2171f-f3d3-16c9-aac0-e8077676e732" type="31" />
+			</node>
+            <node id="EquipmentRace"><!-- DRAGONBORN 4 type (Bulkier Clawstep Male, could be used for Mammal males with Degitigrate legs) -->
+              <attribute id="Name" value="CEC DF Dragonborn Male Strong EL" type="22" />
+              <attribute id="Guid" value="2b3aa322-ae96-4967-9b15-c282e8cca093" type="31" />
+              <attribute id="DefaultParent" value="9a8bbeba-850c-402f-bac5-ff15696e6497" type="31" /><!-- DRAGONBORN Male (Meaning it will revert to Clawstep) - parent it reverts to if doesn't have equipment -->
+              <attribute id="CharacterVisual" value="f6635613-c86c-7914-b90b-7ea38906980a" type="31" />
+            </node>
+            <node id="EquipmentRace"><!-- Avian-Reptile 1 type (Smaller then Vanilla Dragonborn, Human 1,2 types sized) --><!-- Fit to Aarakocra(all Avian Races and Smaller Reptiles - 1 body hum sizedtypes -->
+              <attribute id="Name" value="CEC DF Avian-Reptile Female EL" type="22" />
+              <attribute id="Guid" value="c44cdbdb-c593-4c14-9a58-cb933a63037f" type="31" />
+              <attribute id="DefaultParent" value="71180b76-5752-4a97-b71f-911a69197f58" type="31" />
+              <attribute id="CharacterVisual" value="7962c7d6-9c6c-0f90-f368-6841686c04a4" type="31" />
+            </node>
+            <node id="EquipmentRace"><!-- Avian-Reptile 2 type (Smaller then Vanilla Dragonborn, Human 1,2 types sized) --><!-- Fit to Aarakocra(all Avian Races and Smaller Reptiles and Male Mammal - 2 hum sized body types -->
+              <attribute id="Name" value="CEC DF Avian-Reptile Male EL" type="22" />
+              <attribute id="Guid" value="c6996be8-d338-4a72-821c-57f34f2ad7f8" type="31" />
+              <attribute id="DefaultParent" value="7d73f501-f65e-46af-a13b-2cacf3985d05" type="31" />
+              <attribute id="CharacterVisual" value="b33a4ced-473d-6a80-9139-cefee35ba4a6" type="31" />
+            </node>
+			<!-- Mammals: Canine, Feline --><!-- Females, have Degitigrate legs and breasts -->
+            <node id="EquipmentRace">
+              <attribute id="Name" value="CEC DF Mammal Female EL" type="22" />
+              <attribute id="Guid" value="29a3d116-24c9-45ad-b6d5-8ea4c28c97a5" type="31" />
+              <attribute id="DefaultParent" value="71180b76-5752-4a97-b71f-911a69197f58" type="31" />
+              <attribute id="CharacterVisual" value="88f166f7-a0a4-c706-744b-8aa25dc04154" type="31" />
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="CEC DF Mammal Female Strong EL" type="22" />
+              <attribute id="Guid" value="a1cb505d-40a6-41a7-9077-530552d458af" type="31" />
+              <attribute id="DefaultParent" value="6d38f246-15cb-48b5-9b85-378016a7a78e" type="31" /><!-- DRAGONBORN Female (Meaning it will revert to Clawstep) - parent it reverts to if doesn't have equipment -->
+              <attribute id="CharacterVisual" value="7ad5aa24-5e51-533d-e85d-b068b0cc8d78" type="31" />
+			</node>
+          </children>
+        </node>
+    </region>
+</save>
