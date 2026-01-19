@@ -148,41 +148,75 @@
 			<!-- MODDED BODYTYPES FOR EXISTING RACES -->
 			<!-- DIGITIGRADE LEGS-->
 			<!-- Reptile, Birds -->
+			<!-- DGB BT1/2 - 1 LEGGED -->
+            <node id="EquipmentRace"><!-- DRAGONBORN 1 type (WITHOUT RIGHT leg - Clawstep Female)-->
+              <attribute id="Name" value="CEC Dragonborn Female 1LEG R EL" type="22" />
+              <attribute id="Guid" value="0bb7eddb-c63f-4be4-951d-ae0632d916fe" type="31" />
+              <attribute id="DefaultParent" value="6d38f246-15cb-48b5-9b85-378016a7a78e" type="31" /><!-- DRAGONBORN Female (Meaning it will revert to Clawstep) - parent it reverts to if doesn't have equipment -->
+              <attribute id="CharacterVisual" value="d9b2171f-f3d3-16c9-aac0-e8077676e732" type="31" />
+			</node>
+            <node id="EquipmentRace"><!-- DRAGONBORN 1 type (WITHOUT LEFT leg - Clawstep Female)-->
+              <attribute id="Name" value="CEC Dragonborn Female 1LEG L EL" type="22" />
+              <attribute id="Guid" value="1a31ba12-2cf8-44b3-a3ed-4ca639405264" type="31" />
+              <attribute id="DefaultParent" value="6d38f246-15cb-48b5-9b85-378016a7a78e" type="31" /><!-- DRAGONBORN Female (Meaning it will revert to Clawstep or Vanilla DGB) - parent it reverts to if doesn't have equipment -->
+              <attribute id="CharacterVisual" value="d9b2171f-f3d3-16c9-aac0-e8077676e732" type="31" />
+			</node>
+            <node id="EquipmentRace"><!-- DRAGONBORN 2 type (WITHOUT RIGHT leg - Clawstep Male, could be used for Mammal males with Degitigrate legs) -->
+              <attribute id="Name" value="CEC Dragonborn Male 1LEG R EL" type="22" />
+              <attribute id="Guid" value="d9cb85f4-3027-4987-81a1-21a3d6719f7e" type="31" />
+              <attribute id="DefaultParent" value="9a8bbeba-850c-402f-bac5-ff15696e6497" type="31" /><!-- DRAGONBORN Male (Meaning it will revert to Clawstep or Vanilla DGB) - parent it reverts to if doesn't have equipment -->
+              <attribute id="CharacterVisual" value="f6635613-c86c-7914-b90b-7ea38906980a" type="31" />
+            </node>
+            <node id="EquipmentRace"><!-- DRAGONBORN 2 type (WITHOUT LEFT leg - Clawstep Male, could be used for Mammal males with Degitigrate legs) --><!-- Fit to: Menzo - Cinderly -->
+              <attribute id="Name" value="CEC Dragonborn Male 1LEG L EL" type="22" />
+              <attribute id="Guid" value="6d2cedea-c2fb-4df2-ba84-7560c9c626f7" type="31" />
+              <attribute id="DefaultParent" value="9a8bbeba-850c-402f-bac5-ff15696e6497" type="31" /><!-- DRAGONBORN Male (Meaning it will revert to Clawstepor Vanilla DGB) - parent it reverts to if doesn't have equipment -->
+              <attribute id="CharacterVisual" value="f6635613-c86c-7914-b90b-7ea38906980a" type="31" />
+            </node>
+            <node id="EquipmentRace"><!-- ORI CINDERLY - DRAGONBORN 2 type (WITHOUT LEFT leg --><!-- Fit to: Menzo - Cinderly -->
+              <attribute id="Name" value="CEC ORI CINDERLY EL" type="22" />
+              <attribute id="Guid" value="8926e78e-8b46-49ed-9c5c-2b0be7c8366b" type="31" />
+              <attribute id="DefaultParent" value="6d2cedea-c2fb-4df2-ba84-7560c9c626f7" type="31" /><!-- CEC DF Dragonborn Male 1LEG L EL - parent it reverts to if doesn't have equipment -->
+              <attribute id="CharacterVisual" value="f6635613-c86c-7914-b90b-7ea38906980a" type="31" />
+            </node>
+			<!-- BIGGER -->
             <node id="EquipmentRace"><!-- DRAGONBORN 3 type (Bulkier Clawstep Female)-->
-              <attribute id="Name" value="CEC DF Dragonborn Female Strong EL" type="22" />
+              <attribute id="Name" value="CEC Dragonborn Female Strong EL" type="22" />
               <attribute id="Guid" value="f98a5013-c4e7-470f-9930-0b0f5a067b6d" type="31" />
               <attribute id="DefaultParent" value="6d38f246-15cb-48b5-9b85-378016a7a78e" type="31" /><!-- DRAGONBORN Female (Meaning it will revert to Clawstep) - parent it reverts to if doesn't have equipment -->
               <attribute id="CharacterVisual" value="d9b2171f-f3d3-16c9-aac0-e8077676e732" type="31" />
 			</node>
-            <node id="EquipmentRace"><!-- DRAGONBORN 4 type (Bulkier Clawstep Male, could be used for Mammal males with Degitigrate legs) -->
-              <attribute id="Name" value="CEC DF Dragonborn Male Strong EL" type="22" />
+            <node id="EquipmentRace"><!-- DRAGONBORN 4 type (Bulkier Clawstep Male, could be used for Mammal males with Degitigrate legs) --><!-- Fit to: Abraham - Bulky Clawstep -->
+              <attribute id="Name" value="CEC Dragonborn Male Strong EL" type="22" />
               <attribute id="Guid" value="2b3aa322-ae96-4967-9b15-c282e8cca093" type="31" />
-              <attribute id="DefaultParent" value="9a8bbeba-850c-402f-bac5-ff15696e6497" type="31" /><!-- DRAGONBORN Male (Meaning it will revert to Clawstep) - parent it reverts to if doesn't have equipment -->
+              <attribute id="DefaultParent" value="9a8bbeba-850c-402f-bac5-ff15696e6497" type="31" /><!-- DRAGONBORN Male (Meaning it will revert to Clawstep or Vanilla DGB) - parent it reverts to if doesn't have equipment -->
               <attribute id="CharacterVisual" value="f6635613-c86c-7914-b90b-7ea38906980a" type="31" />
             </node>
-            <node id="EquipmentRace"><!-- Avian-Reptile 1 type (Smaller then Vanilla Dragonborn, Human 1,2 types sized) --><!-- Fit to Aarakocra(all Avian Races and Smaller Reptiles - 1 body hum sizedtypes -->
-              <attribute id="Name" value="CEC DF Avian-Reptile Female EL" type="22" />
+			<!-- SMALLER -->
+            <node id="EquipmentRace"><!-- Avian-Reptile 1 type (Smaller then Vanilla Dragonborn, Human 1,2 types sized) --><!-- Fit to: Aarakocra(all Avian Races and Smaller Reptiles - 1 body hum sizedtypes -->
+              <attribute id="Name" value="CEC Avian-Reptile Female EL" type="22" />
               <attribute id="Guid" value="c44cdbdb-c593-4c14-9a58-cb933a63037f" type="31" />
               <attribute id="DefaultParent" value="71180b76-5752-4a97-b71f-911a69197f58" type="31" />
               <attribute id="CharacterVisual" value="7962c7d6-9c6c-0f90-f368-6841686c04a4" type="31" />
             </node>
-            <node id="EquipmentRace"><!-- Avian-Reptile 2 type (Smaller then Vanilla Dragonborn, Human 1,2 types sized) --><!-- Fit to Aarakocra(all Avian Races and Smaller Reptiles and Male Mammal - 2 hum sized body types -->
-              <attribute id="Name" value="CEC DF Avian-Reptile Male EL" type="22" />
+            <node id="EquipmentRace"><!-- Avian-Reptile 2 type (Smaller then Vanilla Dragonborn, Human 1,2 types sized) --><!-- Fit to: Aarakocra(all Avian Races and Smaller Reptiles and Male Mammal - 2 hum sized body types -->
+              <attribute id="Name" value="CEC Avian-Reptile Male EL" type="22" />
               <attribute id="Guid" value="c6996be8-d338-4a72-821c-57f34f2ad7f8" type="31" />
               <attribute id="DefaultParent" value="7d73f501-f65e-46af-a13b-2cacf3985d05" type="31" />
               <attribute id="CharacterVisual" value="b33a4ced-473d-6a80-9139-cefee35ba4a6" type="31" />
             </node>
-			<!-- Mammals: Canine, Feline --><!-- Females, have Degitigrate legs and breasts -->
-            <node id="EquipmentRace">
-              <attribute id="Name" value="CEC DF Mammal Female EL" type="22" />
+			<!-- MAMMALS: Canine, Feline -->
+			<!-- Females, have Degitigrate legs and breasts -->
+            <node id="EquipmentRace"><!-- Mammal 1 type (Vanilla Human Female sized, has breast) --><!-- Fit to: Lupin, Tabaxi, Kitsune, Hengeyokai -->
+              <attribute id="Name" value="CEC Mammal Female EL" type="22" />
               <attribute id="Guid" value="29a3d116-24c9-45ad-b6d5-8ea4c28c97a5" type="31" />
               <attribute id="DefaultParent" value="71180b76-5752-4a97-b71f-911a69197f58" type="31" />
               <attribute id="CharacterVisual" value="88f166f7-a0a4-c706-744b-8aa25dc04154" type="31" />
             </node>
-            <node id="EquipmentRace">
-              <attribute id="Name" value="CEC DF Mammal Female Strong EL" type="22" />
+            <node id="EquipmentRace"><!-- Mammal 3 type (Vanilla Dragonborn Female sized, has breast) --><!-- Fit to: Leonin -->
+              <attribute id="Name" value="CEC Mammal Female Strong EL" type="22" />
               <attribute id="Guid" value="a1cb505d-40a6-41a7-9077-530552d458af" type="31" />
-              <attribute id="DefaultParent" value="6d38f246-15cb-48b5-9b85-378016a7a78e" type="31" /><!-- DRAGONBORN Female (Meaning it will revert to Clawstep) - parent it reverts to if doesn't have equipment -->
+              <attribute id="DefaultParent" value="6d38f246-15cb-48b5-9b85-378016a7a78e" type="31" /><!-- DRAGONBORN Female (Meaning it will revert to Clawstep or Vanilla DGB) - parent it reverts to if doesn't have equipment -->
               <attribute id="CharacterVisual" value="7ad5aa24-5e51-533d-e85d-b068b0cc8d78" type="31" />
 			</node>
           </children>
