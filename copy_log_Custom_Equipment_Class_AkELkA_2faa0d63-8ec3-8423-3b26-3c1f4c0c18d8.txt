@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8 
-   Mon 01/19/2026 22:07:16.57 
+   Mon 01/19/2026 22:56:59.51 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -61,7 +61,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, January 19, 2026 10:07:19 PM
+  Started : Monday, January 19, 2026 10:57:02 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
      Dest : C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Projects\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
 
@@ -83,9 +83,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           200741500 Bytes/sec.
-   Speed :           11486.520 MegaBytes/min.
-   Ended : Monday, January 19, 2026 10:07:19 PM
+   Speed :           401483000 Bytes/sec.
+   Speed :           22973.041 MegaBytes/min.
+   Ended : Monday, January 19, 2026 10:57:02 PM
 
  
 [DEBUG] Counting source files 
@@ -111,7 +111,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, January 19, 2026 10:07:21 PM
+  Started : Monday, January 19, 2026 10:57:04 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
      Dest : C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Editor\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
 
@@ -129,7 +129,7 @@ SECTION 2: COPY OPERATIONS
    Files :         0         0         0         0         0         0
    Bytes :         0         0         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, January 19, 2026 10:07:21 PM
+   Ended : Monday, January 19, 2026 10:57:04 PM
 
  
 [DEBUG] Counting source files 
@@ -155,7 +155,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, January 19, 2026 10:07:22 PM
+  Started : Monday, January 19, 2026 10:57:05 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
      Dest : C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
 
@@ -166,7 +166,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    2314	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\EquipmentSettings.lnk100%  
-	    New File  		    4894	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\meta.lsx100%  
+	    New File  		    4888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\meta.lsx100%  
 	    New File  		  400775	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\mod_publish_logo.png100%  
 	    New File  		   17366	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\EquipmentSettings\EquipmentRaces.lsx100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\GUI\metadata.lsf100%  
@@ -181,9 +181,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            60946714 Bytes/sec.
-   Speed :            3487.398 MegaBytes/min.
-   Ended : Monday, January 19, 2026 10:07:22 PM
+   Speed :           213310500 Bytes/sec.
+   Speed :           12205.724 MegaBytes/min.
+   Ended : Monday, January 19, 2026 10:57:05 PM
 
  
 [DEBUG] Counting source files 
@@ -209,7 +209,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, January 19, 2026 10:07:24 PM
+  Started : Monday, January 19, 2026 10:57:07 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
      Dest : C:\GIT_BG3\MOD_REPOS\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\Public\Custom_Equipment_Class_AkELkA_2faa0d63-8ec3-8423-3b26-3c1f4c0c18d8\
 
@@ -235,9 +235,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            13285000 Bytes/sec.
-   Speed :             760.173 MegaBytes/min.
-   Ended : Monday, January 19, 2026 10:07:24 PM
+   Speed :             8856666 Bytes/sec.
+   Speed :             506.782 MegaBytes/min.
+   Ended : Monday, January 19, 2026 10:57:07 PM
 
  
 [DEBUG] Counting source files 
